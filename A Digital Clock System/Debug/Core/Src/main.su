@@ -1,0 +1,16 @@
+main.c:98:5:main	8	static
+main.c:144:6:SystemClock_Config	72	static
+main.c:182:13:MX_TIM3_Init	32	static
+main.c:227:13:MX_USART2_UART_Init	8	static
+main.c:260:13:MX_GPIO_Init	40	static
+main.c:295:6:Normal_clk	4	static
+main.c:317:6:Readbutton	8	static
+main.c:347:6:mode_zero	8	static
+main.c:350:6:mode_one	4	static
+main.c:365:6:mode_two	4	static
+main.c:381:6:mode_three	4	static
+main.c:411:6:mode_four	4	static
+main.c:431:6:Readbutton2	8	static
+main.c:496:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:508:6:print_to_ter	32	static
+main.c:573:6:Error_Handler	4	static
